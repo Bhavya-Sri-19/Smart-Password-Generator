@@ -1,1 +1,2 @@
 # Smart-Password-Generator
+The Smart Password Generator is a feature-rich web application built using React that helps users create secure, memorable, and customized passwords. It allows users to select specific password types (such as Email, Banking, etc.), adjust character options (uppercase, lowercase, numbers, symbols), and choose the length of the generated password. The app also includes a dark mode for a user-friendly experience, a password strength meter to indicate password security.
